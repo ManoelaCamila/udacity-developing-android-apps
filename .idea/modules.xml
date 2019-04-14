@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FavoriteToys.iml" filepath="$PROJECT_DIR$/.idea/FavoriteToys.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ud851-Exercises.iml" filepath="$PROJECT_DIR$/.idea/ud851-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ud851-Solutions.iml" filepath="$PROJECT_DIR$/.idea/ud851-Solutions.iml" />
     </modules>
   </component>
 </project>
